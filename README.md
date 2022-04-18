@@ -12,11 +12,11 @@
 
 GitHub Stats
 ------------
-[Saalik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saalikmubeen&theme=radical)
+[!Saalik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saalikmubeen&theme=radical)
 
-[Saalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[!Saalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-[Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&theme=radical&layout=compact&langs_count=6)]
+[!Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&theme=radical&layout=compact&langs_count=6)]
 
 <!--
 **saalikmubeen/saalikmubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
