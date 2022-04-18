@@ -34,7 +34,7 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React Native-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
@@ -51,14 +51,14 @@ GitHub Stats
 
 ![](https://img.shields.io/badge/Microservices-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Microfrontends-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Distributed Systems-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/System Design-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database Design-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Fullstack Engineering-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Web3 and Decentrailized Apps-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/SystemDesign-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DatabaseDesign-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/FullstackEngineering-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Web3/DecentrailizedApps-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Blockchain-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cloud Computing-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/CloudComputing-informational?style=flat&logoColor=white&color=4AB197)
 
 <!--
 **saalikmubeen/saalikmubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
