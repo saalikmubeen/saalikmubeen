@@ -8,12 +8,12 @@
 -------
 
 [![Saalik's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saalik-mubeen-32bb9118a/)
-[![Saalik's Instagram](https://img.shields.io/badge/instagram-%23dedede.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/salikmubeen/)
+[![Saalik's Instagram](https://img.shields.io/badge/instagram-%23dedede.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salikmubeen/)
 [![Saalik's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/salik_mubeen)
 
 GitHub Stats
 ------------
-[![Saalik's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saalikmubeen&theme=radical)](https://github.com/saalikmubeen)
+[![Saalik's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saalikmubeen&theme=tokyonight)](https://github.com/saalikmubeen)
 
 [![Saalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen)
 
