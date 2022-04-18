@@ -8,7 +8,7 @@
 -------
 
 [![Saalik's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saalik-mubeen-32bb9118a/)
-[![Saalik's Instagram](https://img.shields.io/badge/instagram-%23dedede.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salikmubeen/)
+[![Saalik's Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salikmubeen/)
 [![Saalik's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/salik_mubeen)
 
 GitHub Stats
