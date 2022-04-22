@@ -60,6 +60,10 @@ GitHub Stats
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CloudComputing-informational?style=flat&logoColor=white&color=4AB197)
 
+## Profile Views
+
+![Profile views](https://gpvc.arturio.dev/saalikmubeen)
+
 <!--
 **saalikmubeen/saalikmubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
