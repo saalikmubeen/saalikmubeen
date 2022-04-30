@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Saalik
 
-##### I'm **Saalik Mubeen**, a Software Developer from Baramulla, Kashmir. Looking for something extraordinary to happen, one day, eventually, hopefully.
+##### I'm **Saalik Mubeen**, a Software Developer and a daydreamer. Looking for something extraordinary to happen, one day, eventually, hopefully.
 
 
 
