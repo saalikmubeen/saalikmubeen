@@ -40,13 +40,20 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CI/CD-informational?style=flat&logo=travisci&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TravisCI-informational?style=flat&logo=travisci&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
+
 
 ## Areas of Interest 
 
