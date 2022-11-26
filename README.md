@@ -1,7 +1,6 @@
 ### Hey there 👋, I am Saalik
 
-I'm **Saalik Mubeen**, a Software Developer and a daydreamer. Waiting, against insurmountable odds, 
-for something extraordinary to happen, one day, maybe, eventually, hopefully :) 
+I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 
 
 
