@@ -2,6 +2,13 @@
 
 I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 
+<p align="center">
+  <samp>
+    <a href="https://www.saalik.me/">About me</a> .
+    <a href="https://www.saalik.me/Saalik_Mubeen.pdf">My Resume</a>
+  </samp>
+</p>
+
 
 -------
 
@@ -12,14 +19,6 @@ I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 [![Saalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen)
 
 [![Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen) -->
-
-
-<p align="center">
-  <samp>
-    <a href="https://www.saalik.me/">About me</a> .
-    <a href="https://www.saalik.me/Saalik_Mubeen.pdf">My Resume</a>
-  </samp>
-</p>
 
 
 ## 💼 Skills and Tech Stack I work with:
