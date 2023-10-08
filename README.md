@@ -1,24 +1,26 @@
-### Hey there 👋, I am Saalik
+### Hey there 👋
 
 I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 
 
-
-### Get in touch
 -------
 
-[![Saalik's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saalikmubeen)
-[![Saalik's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikmubien@gmail.com?subject=Hey%20Saalik,%20you%20are%20awesome)
-[![Saalik's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/salik_mubeen)
-[![Saalik's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salikmubeen/)
-
-GitHub Stats
+<!-- GitHub Stats
 ------------
 [![Saalik's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saalikmubeen&theme=tokyonight)](https://github.com/saalikmubeen)
 
 [![Saalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalikmubeen&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen)
 
-[![Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen)
+[![Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen) -->
+
+
+<p align="center">
+  <samp>
+    <a href="https://www.saalik.me/">About me</a> .
+    <a href="https://www.saalik.me/Saalik_Mubeen.pdf">My Resume</a>
+  </samp>
+</p>
+
 
 ## 💼 Skills and Tech Stack I work with:
 
@@ -70,9 +72,9 @@ GitHub Stats
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CloudComputing-informational?style=flat&logoColor=white&color=4AB197)
 
-## Profile Views
+<!-- ## Profile Views
 
-![Profile views](https://gpvc.arturio.dev/saalikmubeen)
+![Profile views](https://gpvc.arturio.dev/saalikmubeen) -->
 
 <!--
 **saalikmubeen/saalikmubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
