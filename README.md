@@ -21,6 +21,8 @@ I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 [![Saalik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalikmubeen&layout=compact&langs_count=6&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/saalikmubeen) -->
 
 
+<!-- GitHub Stats
+
 ## 💼 Skills and Tech Stack I work with:
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
@@ -68,6 +70,8 @@ I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 ![](https://img.shields.io/badge/FullstackEngineering-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CloudComputing-informational?style=flat&logoColor=white&color=4AB197)
+
+-->
 
 <!-- ## Profile Views
 
