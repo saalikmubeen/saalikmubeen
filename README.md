@@ -5,7 +5,7 @@ I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
 <p align="center">
   <samp>
     <a href="https://www.saalik.me/">About me</a> .
-    <a href="https://www.saalik.me/Saalik_Mubeen.pdf">My Resume</a>
+    <a href="https://www.saalik.me/Saalik_cv.pdf">My Resume</a>
   </samp>
 </p>
 
