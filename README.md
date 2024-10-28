@@ -11,7 +11,7 @@
 
 ---
 
-I'm a Software Engineer focused on building intuitive, high-performance applications with modern web technologies. I have experience in React, Next.js, TypeScript, Golang and GraphQL, and I've enjoyed collaborating with global teams to deliver scalable solutions.
+I'm a Software Engineer focused on building intuitive, high-performance applications with modern web technologies. I have experience in React, Next.js, TypeScript, React Native, Golang and GraphQL, and I've enjoyed collaborating with global teams to deliver scalable solutions.
 
 I love making open-source projects in TypeScript and JavaScript and building eye-candy user interfaces. I’m interested in distributed systems, backend development, web app performance and optimization, anything JavaScript and web, microservices, and databases. 
 
