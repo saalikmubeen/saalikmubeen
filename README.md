@@ -1,6 +1,4 @@
-### Hey there 👋
-
-I'm **Saalik Mubeen**, a Software Developer and a daydreamer.
+<h3 align="center">👋 Hi, I'm Saalik.</h3>
 
 <p align="center">
   <samp>
