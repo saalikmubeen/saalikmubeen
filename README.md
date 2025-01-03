@@ -4,7 +4,7 @@
   <samp>
     <a href="https://linkedin.com/in/saalikmubeen">LinkedIn</a> •
     <a href="https://www.saalik.me/">About me</a> •
-    <a href="https://www.saalik.me/Saalik_cv.pdf">My Resume</a>
+    <a href="https://www.saalik.me/Saalik_Resume.pdf">My Resume</a>
   </samp>
 </p>
 
