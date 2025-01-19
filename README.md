@@ -16,7 +16,7 @@ I have experience in React, Next.js, TypeScript, React Native, Golang and GraphQ
 
 I love making open-source projects in TypeScript and JavaScript and building eye-candy user interfaces. I’m interested in distributed systems, backend development, web app performance and optimization, anything JavaScript and web, microservices, and databases. 
 
-I'm also currently pursuing MS in CS from [**Georgia Tech**](https://www.gatech.edu) due to my love for computer science.
+I'm also currently pursuing MS in CS from [**Georgia Tech**](https://www.gatech.edu).
 
 
 
